@@ -1,0 +1,8 @@
+[snowflake]
+account = "your_account"
+user = "your_user"
+password = "your_password"
+role = "ENERGY_APP_RO"
+warehouse = "WH_BI"
+database = "ENERGY_DATA"
+schema = "GOLD"

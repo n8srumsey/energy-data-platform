@@ -1,0 +1,6 @@
+streamlit
+snowflake-connector-python
+pandas
+numpy
+plotly          # if you want nicer charts than the built-ins
+python-dotenv   # optional if you want env-var-based secrets locally
