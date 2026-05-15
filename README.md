@@ -42,11 +42,6 @@ Streamlit displays charts and KPIs based on Snowflake queries. The app focuses o
 - Isolating issues and debugging across multiple components
 - Writing documentation to support maintainability and onboarding
 
-## Project Status
-
-This project is in active development. Components will be added as the pipeline, tables, and app are completed. The final version will include full notebooks, configuration examples, SQL schema files, and the Streamlit application.
-
-## Repository Structure
 
 The structure will be defined as the project is completed.
 
